@@ -1,4 +1,4 @@
-# Video Paradiso API
+# Video Paradiso (API)
 
 ## Description
 This project recreates the classic video rental store experience in a digital environment, allowing users to browse, rent, and rate movies. The application supports different user roles, such as regular users and administrators, each with dedicated features to interact with the movie catalog and manage the platform.
